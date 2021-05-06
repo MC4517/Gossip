@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+Programme Gossip avec toutes les fonctionnalitées. Sauf le message privé en groupe, ne fonctionne qu'avec un seul utilisateur. 
+N'oubliez pas le bundle instal.
